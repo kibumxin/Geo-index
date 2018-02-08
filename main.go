@@ -34,7 +34,7 @@ const (
 	PROJECT_ID = "astral-medley-194222"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://104.197.187.41:9200"
+	ES_URL = "http://130.211.138.85:9200"
 )
 
 
